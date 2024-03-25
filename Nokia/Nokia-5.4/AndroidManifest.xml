@@ -7,7 +7,7 @@
     <overlay android:targetPackage="android"
         android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
         android:requiredSystemPropertyValue="+Nokia/DoctorDoom_00WW*"
-        android:priority="1"
+        android:priority="1993"
         android:isStatic="true" />
 
 </manifest>
