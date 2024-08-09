@@ -11,7 +11,7 @@
     <dimen name="status_bar_header_height_expanded">124.0dip</dimen>
     <dimen name="status_bar_header_height_keyguard">40.0dip</dimen>
     <dimen name="status_bar_header_padding_bottom">48.0dip</dimen>
-    <dimen name=dimen" name="status_bar_height">38.0dip</dimen>
+    <dimen name="status_bar_height">38.0dip</dimen>
     <dimen name="status_bar_horizontal_padding">2.5dip</dimen>
     <dimen name="status_bar_icon_drawing_size">15.0dip</dimen>
     <dimen name="status_bar_icon_drawing_size_dark">18.0dip</dimen>
