@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="status_bar_height_portrait">38.0dip</dimen>
-    <dimen name="status_bar_icon_size">22.0dip</dimen>
-    <dimen name="status_bar_system_icon_intrinsic_size">17.0dip</dimen>
-    <dimen name="status_bar_system_icon_size">15.0dip</dimen>
     <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
     <bool name="config_automatic_brightness_available">true</bool>
     <bool name="config_autoBrightnessResetAmbientLuxAfterWarmUp">true</bool>
@@ -15,7 +12,6 @@
     <integer name="config_autoBrightnessDarkeningLightDebounce">4000</integer>
     <integer name="config_autoBrightnessInitialLightSensorRate">-1</integer>
     <integer name="config_autoBrightnessLightSensorRate">250</integer>
-    <integer name="config_brightness_ramp_raconfig_screenBrightnessDarkte_fast">180</integer>
     <integer name="config_brightness_ramp_rate_slow">60</integer>
     <integer name="config_screenBrightnessDark">1</integer>
     <integer name="config_screenBrightnessDim">10</integer>
@@ -58,7 +54,6 @@
     <integer-array name="config_screenDarkeningThresholds">
         <item>200</item>
     </integer-array>
-    <array name="config_screenThresholdLevels" />
     <integer-array name="config_scrollBarrierVibePattern">
         <item>0</item>
         <item>15</item>
@@ -129,31 +124,9 @@
         <item>200</item>
     </integer-array>
     <array name="config_ambientThresholdLevels" />
-    <array name="config_ambientThresholdsOfPeakRefreshRate" />
-    <integer-array name="config_autoRotationTiltTolerance">
-        <item>-25</item>
-        <item>70</item>
-        <item>-25</item>
-        <item>65</item>
-        <item>-25</item>
-        <item>60</item>
-        <item>-25</item>
-        <item>65</item>
-    </integer-array>
-    <array name="config_backGestureInsetScales">
-        <item>0.75</item>
-        <item>1.0</item>
-        <item>1.33</item>
-        <item>1.66</item>
-    </array>
     <integer-array name="config_keyboardTapVibePattern">
         <item>40</item>
     </integer-array>
-    <array name="config_minimumBrightnessCurveLux">
-        <item>0.0</item>
-        <item>2000.0</item>
-        <item>4000.0</item>
-    </array>
     <array name="config_minimumBrightnessCurveNits">
         <item>0.0</item>
         <item>50.0</item>
