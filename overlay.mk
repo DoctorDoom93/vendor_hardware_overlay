@@ -126,12 +126,12 @@ PRODUCT_PACKAGES += \
 	treble-overlay-moto-tundra \
 	treble-overlay-moto-tundra-systemui \
 	treble-overlay-mtk-ims \
-	treble-overlay-nokia-b2n-7plus \
 	treble-overlay-nokia-ctl-7-1 \
 	treble-overlay-nokia-drg-6.1plus-x6 \
 	treble-overlay-nokia-nokia_3_2 \
 	treble-overlay-nokia-nokia_4_2 \
 	treble-overlay-nokia-nokia_5_4 \
+	treble-overlay-nokia-nokia_5_4-systemui \
 	treble-overlay-nokia-nokia_7_2 \
 	treble-overlay-nokia-nokia_7_2-systemui \
 	treble-overlay-nokia-pda_sprout-5.1plus-x5 \
