@@ -2,12 +2,9 @@
         package="me.phh.treble.overlay.nokia.nokia_5_4"
         android:versionCode="1"
         android:versionName="1.0">
-
-
-    <overlay android:targetPackage="android"
-        android:requiredSystemPropertyName="ro.vendor.build.fingerprint_a"
-        android:requiredSystemPropertyValue="+Nokia/DoctorDoom*"
+        <overlay android:targetPackage="android"
+        android:requiredSystemPropertyName="ro.vendor.build.version.incremental"
+        android:requiredSystemPropertyValue="00WW_2_190"
         android:priority="1993"
         android:isStatic="true" />
-
 </manifest>
